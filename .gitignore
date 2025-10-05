@@ -1,0 +1,21 @@
+# Ignore virtual environment directory
+/ibechange-env/
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+__pycache__
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Docker container/volume data (if any)
+*.docker
+docker-compose.override.yml
