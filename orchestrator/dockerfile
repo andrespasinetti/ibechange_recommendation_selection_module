@@ -1,0 +1,14 @@
+FROM python:3.13.1
+
+WORKDIR /app
+ENV PYTHONPATH=/app
+
+# Install Docker CLI
+RUN apt-get update && apt-get install -y docker.io
+
+# Copy code and requirements
+COPY orchestrator /app/orchestrator
+
+RUN pip install -r /app/orchestrator/requirements.txt
+
+CMD ["python", "-u", "-m", "orchestrator.orchestrator"]

@@ -1,0 +1,1094 @@
+{
+    "SM1": {
+        "frequency": 2,
+        "pillar": "smoking"
+    },
+    "SM2": {
+        "frequency": 2,
+        "pillar": "smoking"
+    },
+    "SM3": {
+        "frequency": 2,
+        "pillar": "smoking"
+    },
+    "SM4": {
+        "frequency": 2,
+        "pillar": "smoking"
+    },
+    "SM5": {
+        "frequency": 3,
+        "pillar": "smoking"
+    },
+    "SM6": {
+        "frequency": 3,
+        "pillar": "smoking"
+    },
+    "SM7": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "SM8": {
+        "frequency": 1,
+        "pillar": "smoking"
+    },
+    "SM9": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "SM10": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "SM11": {
+        "frequency": 1,
+        "pillar": "smoking"
+    },
+    "SM12": {
+        "frequency": 1,
+        "pillar": "smoking"
+    },
+    "SM13": {
+        "frequency": 1,
+        "pillar": "smoking"
+    },
+    "SM14": {
+        "frequency": 2,
+        "pillar": "smoking"
+    },
+    "SM15": {
+        "frequency": 3,
+        "pillar": "smoking"
+    },
+    "SM16": {
+        "frequency": 1,
+        "pillar": "smoking"
+    },
+    "SM17": {
+        "frequency": 1,
+        "pillar": "smoking"
+    },
+    "SM18": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "SM19": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "SM20": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "SM21": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "SM22": {
+        "frequency": 1,
+        "pillar": "smoking"
+    },
+    "SM23": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "SM24": {
+        "frequency": 7,
+        "pillar": "smoking"
+    },
+    "AM1": {
+        "frequency": 7,
+        "pillar": "alcohol"
+    },
+    "AM2": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM3": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM4": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM5": {
+        "frequency": 7,
+        "pillar": "alcohol"
+    },
+    "AM6": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM7": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM8": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM9": {
+        "frequency": 7,
+        "pillar": "alcohol"
+    },
+    "AM10": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM11": {
+        "frequency": 3,
+        "pillar": "alcohol"
+    },
+    "AM12": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM13": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM14": {
+        "frequency": 7,
+        "pillar": "alcohol"
+    },
+    "AM15": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM16": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM17": {
+        "frequency": 7,
+        "pillar": "alcohol"
+    },
+    "AM18": {
+        "frequency": 7,
+        "pillar": "alcohol"
+    },
+    "AM19": {
+        "frequency": 7,
+        "pillar": "alcohol"
+    },
+    "AM20": {
+        "frequency": 7,
+        "pillar": "alcohol"
+    },
+    "AM21": {
+        "frequency": 5,
+        "pillar": "alcohol"
+    },
+    "AM22": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "AM23": {
+        "frequency": 1,
+        "pillar": "alcohol"
+    },
+    "NM1": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM2": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM3": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM4": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM5": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM6": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM7": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM8": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM9": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM10": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM11": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM12": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM13": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM14": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM15": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM16": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM17": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM18": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM19": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM20": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM21": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM22": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM23": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM24": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM25": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM26": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM27": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM28": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM29": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM30": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM31": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM32": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM33": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM34": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM35": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM36": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM37": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM38": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM39": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM40": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM41": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM42": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM43": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM44": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM45": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM46": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM47": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM48": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM49": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM50": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM51": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM52": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM53": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM54": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM55": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM56": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM57": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM58": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM59": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM60": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM61": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM62": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM63": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM64": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM65": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM66": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM67": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM68": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM69": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM70": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM71": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM72": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM73": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM74": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM75": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM76": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM77": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM78": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM79": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM80": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM81": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM82": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM83": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "NM84": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM85": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM86": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM87": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM88": {
+        "frequency": 7,
+        "pillar": "nutrition"
+    },
+    "NM89": {
+        "frequency": 5,
+        "pillar": "nutrition"
+    },
+    "NM90": {
+        "frequency": 3,
+        "pillar": "nutrition"
+    },
+    "NM91": {
+        "frequency": 2,
+        "pillar": "nutrition"
+    },
+    "NM92": {
+        "frequency": 1,
+        "pillar": "nutrition"
+    },
+    "PM1": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM2": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM3": {
+        "frequency": 2,
+        "pillar": "physical activity"
+    },
+    "PM4": {
+        "frequency": 3,
+        "pillar": "physical activity"
+    },
+    "PM5": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM6": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM7": {
+        "frequency": 2,
+        "pillar": "physical activity"
+    },
+    "PM8": {
+        "frequency": 3,
+        "pillar": "physical activity"
+    },
+    "PM9": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM10": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM11": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM12": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM13": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM14": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM15": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM16": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM17": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM18": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM19": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM20": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM21": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM22": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM23": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM24": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM25": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM26": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM27": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM28": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM29": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM30": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM31": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM32": {
+        "frequency": 2,
+        "pillar": "physical activity"
+    },
+    "PM33": {
+        "frequency": 3,
+        "pillar": "physical activity"
+    },
+    "PM34": {
+        "frequency": 5,
+        "pillar": "physical activity"
+    },
+    "PM35": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM36": {
+        "frequency": 2,
+        "pillar": "physical activity"
+    },
+    "PM37": {
+        "frequency": 3,
+        "pillar": "physical activity"
+    },
+    "PM38": {
+        "frequency": 5,
+        "pillar": "physical activity"
+    },
+    "PM39": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM40": {
+        "frequency": 2,
+        "pillar": "physical activity"
+    },
+    "PM41": {
+        "frequency": 3,
+        "pillar": "physical activity"
+    },
+    "PM42": {
+        "frequency": 5,
+        "pillar": "physical activity"
+    },
+    "PM43": {
+        "frequency": 1,
+        "pillar": "physical activity"
+    },
+    "PM44": {
+        "frequency": 2,
+        "pillar": "physical activity"
+    },
+    "PM45": {
+        "frequency": 3,
+        "pillar": "physical activity"
+    },
+    "PM46": {
+        "frequency": 5,
+        "pillar": "physical activity"
+    },
+    "EM1": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM2": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM3": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM4": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM5": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM6": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM7": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM8": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM9": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM10": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM11": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM12": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM13": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM14": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM15": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM16": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM17": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM18": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM19": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM20": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM21": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM22": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM23": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM24": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM25": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM26": {
+        "frequency": 2,
+        "pillar": "emotional wellbeing"
+    },
+    "EM27": {
+        "frequency": 4,
+        "pillar": "emotional wellbeing"
+    },
+    "EM28": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM29": {
+        "frequency": 2,
+        "pillar": "emotional wellbeing"
+    },
+    "EM30": {
+        "frequency": 4,
+        "pillar": "emotional wellbeing"
+    },
+    "EM31": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM32": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM33": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM34": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM35": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM36": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM37": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM38": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM39": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM40": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM42": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM43": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM44": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM45": {
+        "frequency": 2,
+        "pillar": "emotional wellbeing"
+    },
+    "EM46": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM47": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM48": {
+        "frequency": 2,
+        "pillar": "emotional wellbeing"
+    },
+    "EM49": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM50": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM51": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM52": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM53": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM54": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM55": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM56": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM57": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM58": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM59": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM60": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM61": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM62": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM63": {
+        "frequency": 5,
+        "pillar": "emotional wellbeing"
+    },
+    "EM64": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM65": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM66": {
+        "frequency": 3,
+        "pillar": "emotional wellbeing"
+    },
+    "EM67": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM68": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM69": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM70": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM71": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM72": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM73": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM74": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM75": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM76": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM77": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM78": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM79": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM80": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM81": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM82": {
+        "frequency": 7,
+        "pillar": "emotional wellbeing"
+    },
+    "EM83": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM84": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM85": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM86": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM87": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM88": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    },
+    "EM89": {
+        "frequency": 1,
+        "pillar": "emotional wellbeing"
+    }
+}

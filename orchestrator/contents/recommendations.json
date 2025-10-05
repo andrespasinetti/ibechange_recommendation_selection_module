@@ -1,0 +1,6052 @@
+{
+    "SRc1": {
+        "missions": [
+            "SM1",
+            "SM3"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRc2": {
+        "missions": [
+            "SM1",
+            "SM3",
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "SRc3": {
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "persuasion"
+        ]
+    },
+    "SRc4": {
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "SRc5": {
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "persuasion"
+        ]
+    },
+    "SRc6": {
+        "missions": [
+            "SM1",
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "education",
+            "modelling"
+        ]
+    },
+    "SRc7": {
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "SRc8": {
+        "missions": [
+            "SM2"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "SRc9": {
+        "missions": [
+            "SM2"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "training"
+        ]
+    },
+    "SRc10": {
+        "missions": [
+            "SM2"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "training"
+        ]
+    },
+    "SRc11": {
+        "missions": [
+            "SM2"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "incentivisation",
+            "enablement"
+        ]
+    },
+    "SRc12": {
+        "missions": [
+            "SM2",
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring",
+            "persuasion"
+        ]
+    },
+    "SRc13": {
+        "missions": [
+            "SM3"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc14": {
+        "missions": [
+            "SM3"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc15": {
+        "missions": [
+            "SM3"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement",
+            "incentivisation"
+        ]
+    },
+    "SRc16": {
+        "missions": [
+            "SM4",
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM10",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc17": {
+        "missions": [
+            "SM4"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring",
+            "persuasion"
+        ]
+    },
+    "SRc18": {
+        "missions": [
+            "SM4",
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "incentivisation",
+            "enablement"
+        ]
+    },
+    "SRc19": {
+        "missions": [
+            "SM4"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc20": {
+        "missions": [
+            "SM4",
+            "SM7"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc21": {
+        "missions": [
+            "SM4",
+            "SM7"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc22": {
+        "missions": [
+            "SM4"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement",
+            "persuasion"
+        ]
+    },
+    "SRc23": {
+        "missions": [
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc24": {
+        "missions": [
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring",
+            "persuasion"
+        ]
+    },
+    "SRc25": {
+        "missions": [
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc26": {
+        "missions": [
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc27": {
+        "missions": [
+            "SM6"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "modelling"
+        ]
+    },
+    "SRc28": {
+        "missions": [
+            "SM6"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "modelling"
+        ]
+    },
+    "SRc29": {
+        "missions": [
+            "SM6"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "modelling"
+        ]
+    },
+    "SRc30": {
+        "missions": [
+            "SM6"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "modelling"
+        ]
+    },
+    "SRc31": {
+        "missions": [
+            "SM6"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "modelling"
+        ]
+    },
+    "SRc32": {
+        "missions": [
+            "SM7"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc33": {
+        "missions": [
+            "SM7"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion",
+            "modelling"
+        ]
+    },
+    "SRc34": {
+        "missions": [
+            "SM7",
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "SRc35": {
+        "missions": [
+            "SM7",
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc36": {
+        "missions": [
+            "SM7",
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "incentivisation",
+            "persuasion"
+        ]
+    },
+    "SRc37": {
+        "missions": [
+            "SM7"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc38": {
+        "missions": [
+            "SM7"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "training"
+        ]
+    },
+    "SRc39": {
+        "missions": [
+            "SM7",
+            "SM4",
+            "SM5"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc40": {
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "SRc41": {
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc42": {
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc43": {
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "training"
+        ]
+    },
+    "SRc44": {
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc45": {
+        "missions": [
+            "SM9"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc46": {
+        "missions": [
+            "SM9"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc47": {
+        "missions": [
+            "SM9"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "incentivisation"
+        ]
+    },
+    "SRc48": {
+        "missions": [
+            "SM9"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc49": {
+        "missions": [
+            "SM9"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc50": {
+        "missions": [
+            "SM9"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc51": {
+        "missions": [
+            "SM10"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "modelling"
+        ]
+    },
+    "SRc52": {
+        "missions": [
+            "SM10",
+            "SM11"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc53": {
+        "missions": [
+            "SM10",
+            "SM11"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc54": {
+        "missions": [
+            "SM10",
+            "SM11"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc55": {
+        "missions": [
+            "SM10",
+            "SM11"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "incentivisation"
+        ]
+    },
+    "SRc56": {
+        "missions": [
+            "SM10",
+            "SM11"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring",
+            "persuasion"
+        ]
+    },
+    "SRc57": {
+        "missions": [
+            "SM12",
+            "SM10"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc58": {
+        "missions": [
+            "SM10",
+            "SM12"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc59": {
+        "missions": [
+            "SM10",
+            "SM12"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc60": {
+        "missions": [
+            "SM10",
+            "SM12"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc61": {
+        "missions": [
+            "SM10",
+            "SM12"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc62": {
+        "missions": [
+            "SM10",
+            "SM12"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc63": {
+        "missions": [
+            "SM10",
+            "SM12"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc64": {
+        "missions": [
+            "SM10",
+            "SM13"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement",
+            "modelling"
+        ]
+    },
+    "SRc65": {
+        "missions": [
+            "SM10",
+            "SM13"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc66": {
+        "missions": [
+            "SM10",
+            "SM13"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc67": {
+        "missions": [
+            "SM10",
+            "SM13"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc68": {
+        "missions": [
+            "SM13",
+            "SM10"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement",
+            "modelling"
+        ]
+    },
+    "SRc69": {
+        "missions": [
+            "SM10",
+            "SM14"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions",
+            "environmental restructuring"
+        ]
+    },
+    "SRc70": {
+        "missions": [
+            "SM10",
+            "SM14"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions",
+            "environmental restructuring"
+        ]
+    },
+    "SRc71": {
+        "missions": [
+            "SM10",
+            "SM14"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions",
+            "environmental restructuring"
+        ]
+    },
+    "SRc72": {
+        "missions": [
+            "SM10",
+            "SM14",
+            "SM15"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc73": {
+        "missions": [
+            "SM10",
+            "SM14"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement",
+            "persuasion"
+        ]
+    },
+    "SRc74": {
+        "missions": [
+            "SM10",
+            "SM15"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions"
+        ]
+    },
+    "SRc75": {
+        "missions": [
+            "SM10",
+            "SM15"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc76": {
+        "missions": [
+            "SM10",
+            "SM15"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc77": {
+        "missions": [
+            "SM10",
+            "SM15"
+        ],
+        "pillar": "smoking",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "restrictions"
+        ]
+    },
+    "SRc78": {
+        "missions": [
+            "SM10",
+            "SM15"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc79": {
+        "missions": [
+            "SM10",
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc80": {
+        "missions": [
+            "SM10",
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc81": {
+        "missions": [
+            "SM10",
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc82": {
+        "missions": [
+            "SM10",
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc83": {
+        "missions": [
+            "SM10",
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "SRc84": {
+        "missions": [
+            "SM10",
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "SRc85": {
+        "missions": [
+            "SM16",
+            "SM10"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "training"
+        ]
+    },
+    "SRc86": {
+        "missions": [
+            "SM10",
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "environmental restructuring"
+        ]
+    },
+    "SRc87": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "training"
+        ]
+    },
+    "SRc88": {
+        "missions": [
+            "SM18",
+            "SM19"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc89": {
+        "missions": [
+            "SM18"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "SRc90": {
+        "missions": [
+            "SM18"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "incentivisation"
+        ]
+    },
+    "SRc91": {
+        "missions": [
+            "SM18"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "environmental restructuring"
+        ]
+    },
+    "SRc92": {
+        "missions": [
+            "SM18"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc93": {
+        "missions": [
+            "SM18"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring",
+            "restrictions",
+            "training"
+        ]
+    },
+    "SRc94": {
+        "missions": [
+            "SM19"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions"
+        ]
+    },
+    "SRc95": {
+        "missions": [
+            "SM19"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc96": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "SRc97": {
+        "missions": [
+            "SM19"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "persuasion"
+        ]
+    },
+    "SRc98": {
+        "missions": [
+            "SM19"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "SRc99": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM24",
+            "SM22",
+            "SM23"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "modelling"
+        ]
+    },
+    "SRc100": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "incentivisation"
+        ]
+    },
+    "SRc101": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "incentivisation"
+        ]
+    },
+    "SRc102": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc103": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc104": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "incentivisation",
+            "training"
+        ]
+    },
+    "SRc105": {
+        "missions": [
+            "SM17",
+            "SM20",
+            "SM21"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions"
+        ]
+    },
+    "SRc106": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "training",
+            "education"
+        ]
+    },
+    "SRc107": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "training",
+            "education"
+        ]
+    },
+    "SRc108": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "restrictions"
+        ]
+    },
+    "SRc109": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "restrictions"
+        ]
+    },
+    "SRc110": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions"
+        ]
+    },
+    "SRc111": {
+        "missions": [
+            "SM24",
+            "SM23",
+            "SM22",
+            "SM21",
+            "SM20",
+            "SM19",
+            "SM18",
+            "SM17"
+        ],
+        "pillar": "smoking",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "restrictions",
+            "environmental restructuring"
+        ]
+    },
+    "SRc112": {
+        "missions": [
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc113": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "persuasion"
+        ]
+    },
+    "SRc114": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "education",
+            "training"
+        ]
+    },
+    "SRc115": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc116": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring",
+            "persuasion"
+        ]
+    },
+    "SRc117": {
+        "missions": [
+            "SM17",
+            "SM20",
+            "SM21",
+            "SM22"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "restrictions"
+        ]
+    },
+    "SRc118": {
+        "missions": [
+            "SM17",
+            "SM20",
+            "SM21",
+            "SM22"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "restrictions"
+        ]
+    },
+    "SRc119": {
+        "missions": [
+            "SM20",
+            "SM17",
+            "SM21",
+            "SM22"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "restrictions"
+        ]
+    },
+    "SRc120": {
+        "missions": [
+            "SM17",
+            "SM20",
+            "SM21",
+            "SM22"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "restrictions"
+        ]
+    },
+    "SRc121": {
+        "missions": [
+            "SM17",
+            "SM20",
+            "SM21",
+            "SM22"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions",
+            "training"
+        ]
+    },
+    "SRc122": {
+        "missions": [
+            "SM17",
+            "SM20",
+            "SM21",
+            "SM22"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "training",
+            "restrictions"
+        ]
+    },
+    "SRc123": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc124": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc125": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "restrictions"
+        ]
+    },
+    "SRc126": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "SRc127": {
+        "missions": [
+            "SM17",
+            "SM18",
+            "SM19",
+            "SM20",
+            "SM21",
+            "SM22",
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "SRc128": {
+        "missions": [
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "enablement",
+            "education"
+        ]
+    },
+    "SRc129": {
+        "missions": [
+            "SM23",
+            "SM24"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "incentivisation"
+        ]
+    },
+    "ARc1": {
+        "missions": [
+            "AM1"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ARc2": {
+        "missions": [
+            "AM1"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ARc3": {
+        "missions": [
+            "AM1"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "ARc4": {
+        "missions": [
+            "AM2"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "ARc5": {
+        "missions": [
+            "AM2"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "incentivisation",
+            "enablement"
+        ]
+    },
+    "ARc6": {
+        "missions": [
+            "AM2"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation",
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc7": {
+        "missions": [
+            "AM3"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "training",
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "ARc8": {
+        "missions": [
+            "AM3"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "incentivisation",
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc9": {
+        "missions": [
+            "AM3"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "training",
+            "persuasion"
+        ]
+    },
+    "ARc10": {
+        "missions": [
+            "AM4"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc11": {
+        "missions": [
+            "AM4"
+        ],
+        "pillar": "alcohol",
+        "com_b": "physical capability",
+        "intervention_types": [
+            "training",
+            "environmental restructuring",
+            "restrictions",
+            "enablement"
+        ]
+    },
+    "ARc12": {
+        "missions": [
+            "AM4"
+        ],
+        "pillar": "alcohol",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "persuasion",
+            "education",
+            "incentivisation",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc13": {
+        "missions": [
+            "AM5"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "incentivisation",
+            "training"
+        ]
+    },
+    "ARc14": {
+        "missions": [
+            "AM5"
+        ],
+        "pillar": "alcohol",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "persuasion",
+            "training",
+            "restrictions",
+            "enablement"
+        ]
+    },
+    "ARc15": {
+        "missions": [
+            "AM5"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "incentivisation"
+        ]
+    },
+    "ARc16": {
+        "missions": [
+            "AM6"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "incentivisation",
+            "training"
+        ]
+    },
+    "ARc17": {
+        "missions": [
+            "AM6"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc18": {
+        "missions": [
+            "AM6"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "persuasion"
+        ]
+    },
+    "ARc19": {
+        "missions": [
+            "AM7"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "environmental restructuring",
+            "incentivisation",
+            "enablement"
+        ]
+    },
+    "ARc20": {
+        "missions": [
+            "AM7"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc21": {
+        "missions": [
+            "AM7"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement",
+            "environmental restructuring",
+            "persuasion"
+        ]
+    },
+    "ARc22": {
+        "missions": [
+            "AM7"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ARc23": {
+        "missions": [
+            "AM8"
+        ],
+        "pillar": "alcohol",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "restrictions",
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc24": {
+        "missions": [
+            "AM8"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "training",
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc25": {
+        "missions": [
+            "AM8"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "ARc26": {
+        "missions": [
+            "AM9"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "incentivisation",
+            "enablement"
+        ]
+    },
+    "ARc27": {
+        "missions": [
+            "AM9"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "incentivisation",
+            "training",
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc28": {
+        "missions": [
+            "AM9"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation",
+            "environmental restructuring",
+            "modelling",
+            "enablement"
+        ]
+    },
+    "ARc29": {
+        "missions": [
+            "AM10"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "ARc30": {
+        "missions": [
+            "AM10"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc31": {
+        "missions": [
+            "AM10"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation",
+            "education"
+        ]
+    },
+    "ARc32": {
+        "missions": [
+            "AM11"
+        ],
+        "pillar": "alcohol",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "education",
+            "incentivisation",
+            "persuasion",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc33": {
+        "missions": [
+            "AM11"
+        ],
+        "pillar": "alcohol",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc34": {
+        "missions": [
+            "AM11"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc35": {
+        "missions": [
+            "AM12"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "ARc36": {
+        "missions": [
+            "AM12"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "incentivisation",
+            "enablement"
+        ]
+    },
+    "ARc37": {
+        "missions": [
+            "AM12"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "ARc38": {
+        "missions": [
+            "AM13"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc39": {
+        "missions": [
+            "AM13"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement",
+            "environmental restructuring",
+            "incentivisation"
+        ]
+    },
+    "ARc40": {
+        "missions": [
+            "AM13"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "ARc41": {
+        "missions": [
+            "AM14"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ARc42": {
+        "missions": [
+            "AM14"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ARc43": {
+        "missions": [
+            "AM14"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "incentivisation",
+            "persuasion",
+            "education"
+        ]
+    },
+    "ARc44": {
+        "missions": [
+            "AM15"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "ARc45": {
+        "missions": [
+            "AM15"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "persuasion",
+            "enablement",
+            "training"
+        ]
+    },
+    "ARc46": {
+        "missions": [
+            "AM15"
+        ],
+        "pillar": "alcohol",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ARc47": {
+        "missions": [
+            "AM16"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "ARc48": {
+        "missions": [
+            "AM16"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ARc49": {
+        "missions": [
+            "AM16"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "ARc50": {
+        "missions": [
+            "AM17"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation",
+            "enablement"
+        ]
+    },
+    "ARc51": {
+        "missions": [
+            "AM17"
+        ],
+        "pillar": "alcohol",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ARc52": {
+        "missions": [
+            "AM17"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "training"
+        ]
+    },
+    "ARc53": {
+        "missions": [
+            "AM18"
+        ],
+        "pillar": "alcohol",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "incentivisation",
+            "environmental restructuring",
+            "training"
+        ]
+    },
+    "ARc54": {
+        "missions": [
+            "AM18"
+        ],
+        "pillar": "alcohol",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ARc55": {
+        "missions": [
+            "AM18"
+        ],
+        "pillar": "alcohol",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ARc56": {
+        "missions": [
+            "AM19"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "ARc57": {
+        "missions": [
+            "AM19"
+        ],
+        "pillar": "alcohol",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc58": {
+        "missions": [
+            "AM19"
+        ],
+        "pillar": "alcohol",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "education",
+            "training",
+            "incentivisation"
+        ]
+    },
+    "ARc59": {
+        "missions": [
+            "AM20"
+        ],
+        "pillar": "alcohol",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "education",
+            "training",
+            "environmental restructuring"
+        ]
+    },
+    "ARc60": {
+        "missions": [
+            "AM20"
+        ],
+        "pillar": "alcohol",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ARc61": {
+        "missions": [
+            "AM20"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "training",
+            "environmental restructuring"
+        ]
+    },
+    "ARc62": {
+        "missions": [
+            "AM21"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "incentivisation",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc63": {
+        "missions": [
+            "AM21"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "persuasion",
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc64": {
+        "missions": [
+            "AM21"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "incentivisation",
+            "persuasion"
+        ]
+    },
+    "ARc65": {
+        "missions": [
+            "AM22"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "ARc66": {
+        "missions": [
+            "AM22"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARc67": {
+        "missions": [
+            "AM22"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "training",
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ARc68": {
+        "missions": [
+            "AM23"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "ARc69": {
+        "missions": [
+            "AM23"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "incentivisation",
+            "persuasion"
+        ]
+    },
+    "ARc70": {
+        "missions": [
+            "AM23"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "NRc1": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "NRc2": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "NRc3": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc4": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc5": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "NRc6": {
+        "missions": [
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "NRc7": {
+        "missions": [
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "NRc8": {
+        "missions": [
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc9": {
+        "missions": [
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc10": {
+        "missions": [
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "NRc11": {
+        "missions": [
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "incentivisation"
+        ]
+    },
+    "NRc12": {
+        "missions": [
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "NRc13": {
+        "missions": [
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc14": {
+        "missions": [
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc15": {
+        "missions": [
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "NRc16": {
+        "missions": [
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc17": {
+        "missions": [
+            "NM24",
+            "NM25",
+            "NM26"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc18": {
+        "missions": [
+            "NM27",
+            "NM28",
+            "NM29"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc19": {
+        "missions": [
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "NRc20": {
+        "missions": [
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "NRc21": {
+        "missions": [
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "NRc22": {
+        "missions": [
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM65",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM71",
+            "NM72",
+            "NM73",
+            "NM74",
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc23": {
+        "missions": [
+            "NM33",
+            "NM34"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc24": {
+        "missions": [
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc25": {
+        "missions": [
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc26": {
+        "missions": [
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc27": {
+        "missions": [
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM40",
+            "NM41",
+            "NM42"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc28": {
+        "missions": [
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc29": {
+        "missions": [
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc30": {
+        "missions": [
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM40",
+            "NM41",
+            "NM42",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58",
+            "NM59",
+            "NM60",
+            "NM61"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc31": {
+        "missions": [
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM2"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc32": {
+        "missions": [
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "environmental restructuring"
+        ]
+    },
+    "NRc33": {
+        "missions": [
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "NRc34": {
+        "missions": [
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "education",
+            "environmental restructuring"
+        ]
+    },
+    "NRc35": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM59",
+            "NM60",
+            "NM61"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "education",
+            "environmental restructuring"
+        ]
+    },
+    "NRc36": {
+        "missions": [
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "education",
+            "environmental restructuring"
+        ]
+    },
+    "NRc37": {
+        "missions": [
+            "NM62",
+            "NM63",
+            "NM64"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "environmental restructuring"
+        ]
+    },
+    "NRc38": {
+        "missions": [
+            "NM62",
+            "NM63",
+            "NM64"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "NRc39": {
+        "missions": [
+            "NM65",
+            "NM71",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "NRc40": {
+        "missions": [
+            "NM65",
+            "NM71",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "NRc41": {
+        "missions": [
+            "NM65",
+            "NM71",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc42": {
+        "missions": [
+            "NM65",
+            "NM71",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc43": {
+        "missions": [
+            "NM65",
+            "NM71",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc44": {
+        "missions": [
+            "NM72",
+            "NM73",
+            "NM74"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc45": {
+        "missions": [
+            "NM72",
+            "NM73",
+            "NM74"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc46": {
+        "missions": [
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc47": {
+        "missions": [
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc48": {
+        "missions": [
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "education"
+        ]
+    },
+    "NRc49": {
+        "missions": [
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "environmental restructuring",
+            "education"
+        ]
+    },
+    "NRc50": {
+        "missions": [
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "persuasion",
+            "environmental restructuring"
+        ]
+    },
+    "NRc51": {
+        "missions": [
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc52": {
+        "missions": [
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "NRc53": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM40",
+            "NM41",
+            "NM42",
+            "NM43",
+            "NM44",
+            "NM45",
+            "NM46",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58",
+            "NM59",
+            "NM60",
+            "NM61",
+            "NM62",
+            "NM63",
+            "NM64",
+            "NM65",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM71",
+            "NM72",
+            "NM73",
+            "NM74",
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78",
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement",
+            "restrictions"
+        ]
+    },
+    "NRc54": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM40",
+            "NM41",
+            "NM42",
+            "NM43",
+            "NM44",
+            "NM45",
+            "NM46",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58",
+            "NM59",
+            "NM60",
+            "NM61",
+            "NM62",
+            "NM63",
+            "NM64",
+            "NM65",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM71",
+            "NM72",
+            "NM73",
+            "NM74",
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78",
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "environmental restructuring",
+            "education"
+        ]
+    },
+    "NRc55": {
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM40",
+            "NM41",
+            "NM42",
+            "NM43",
+            "NM44",
+            "NM45",
+            "NM46",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58",
+            "NM59",
+            "NM60",
+            "NM61",
+            "NM62",
+            "NM63",
+            "NM64",
+            "NM65",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM71",
+            "NM72",
+            "NM73",
+            "NM74",
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78",
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "PRc1": {
+        "missions": [
+            "PM1",
+            "PM2",
+            "PM3",
+            "PM4",
+            "PM5",
+            "PM6"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc2": {
+        "missions": [
+            "PM1",
+            "PM2",
+            "PM3",
+            "PM4",
+            "PM5",
+            "PM6"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc3": {
+        "missions": [
+            "PM1",
+            "PM2",
+            "PM3",
+            "PM4",
+            "PM5",
+            "PM6"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc4": {
+        "missions": [
+            "PM1",
+            "PM2",
+            "PM3",
+            "PM4",
+            "PM5",
+            "PM6"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc5": {
+        "missions": [
+            "PM1",
+            "PM2",
+            "PM3",
+            "PM4",
+            "PM5",
+            "PM6"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc6": {
+        "missions": [
+            "PM1",
+            "PM2",
+            "PM3",
+            "PM4",
+            "PM5",
+            "PM6"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc7": {
+        "missions": [
+            "PM4",
+            "PM5",
+            "PM6"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc8": {
+        "missions": [
+            "PM7",
+            "PM8",
+            "PM9",
+            "PM10",
+            "PM11",
+            "PM12"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc9": {
+        "missions": [
+            "PM7",
+            "PM8",
+            "PM9",
+            "PM10",
+            "PM11",
+            "PM12"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc10": {
+        "missions": [
+            "PM7",
+            "PM8",
+            "PM9",
+            "PM10",
+            "PM11",
+            "PM12"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc11": {
+        "missions": [
+            "PM7",
+            "PM8",
+            "PM9",
+            "PM10",
+            "PM11",
+            "PM12"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc12": {
+        "missions": [
+            "PM7",
+            "PM8",
+            "PM9",
+            "PM10",
+            "PM11",
+            "PM12"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc13": {
+        "missions": [
+            "PM10",
+            "PM11",
+            "PM12"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc14": {
+        "missions": [
+            "PM13",
+            "PM14",
+            "PM15",
+            "PM16",
+            "PM17"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc15": {
+        "missions": [
+            "PM13",
+            "PM14",
+            "PM15",
+            "PM16",
+            "PM17"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc16": {
+        "missions": [
+            "PM13",
+            "PM14",
+            "PM15",
+            "PM16",
+            "PM17"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "PRc17": {
+        "missions": [
+            "PM13",
+            "PM14",
+            "PM15",
+            "PM16",
+            "PM17"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "modelling"
+        ]
+    },
+    "PRc18": {
+        "missions": [
+            "PM13",
+            "PM14",
+            "PM15",
+            "PM16",
+            "PM17"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc19": {
+        "missions": [
+            "PM16"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc20": {
+        "missions": [
+            "PM13",
+            "PM14",
+            "PM15",
+            "PM16",
+            "PM17"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc21": {
+        "missions": [
+            "PM13",
+            "PM14",
+            "PM15",
+            "PM16",
+            "PM17"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc22": {
+        "missions": [
+            "PM18",
+            "PM19",
+            "PM20",
+            "PM21",
+            "PM22",
+            "PM23"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "PRc23": {
+        "missions": [
+            "PM19"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc24": {
+        "missions": [
+            "PM18",
+            "PM19",
+            "PM20",
+            "PM21",
+            "PM22",
+            "PM23"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "PRc25": {
+        "missions": [
+            "PM18",
+            "PM19",
+            "PM20",
+            "PM21",
+            "PM22",
+            "PM23"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc26": {
+        "missions": [
+            "PM18",
+            "PM19",
+            "PM20",
+            "PM21",
+            "PM22",
+            "PM23"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "PRc27": {
+        "missions": [
+            "PM18",
+            "PM19",
+            "PM20",
+            "PM21",
+            "PM22",
+            "PM23"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc28": {
+        "missions": [
+            "PM24",
+            "PM25",
+            "PM26",
+            "PM27",
+            "PM28",
+            "PM29"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc29": {
+        "missions": [
+            "PM24",
+            "PM25",
+            "PM26",
+            "PM27",
+            "PM28",
+            "PM29"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "PRc30": {
+        "missions": [
+            "PM24",
+            "PM25",
+            "PM26",
+            "PM27",
+            "PM28",
+            "PM29"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc31": {
+        "missions": [
+            "PM24",
+            "PM25",
+            "PM26",
+            "PM27",
+            "PM28",
+            "PM29"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "PRc32": {
+        "missions": [
+            "PM24",
+            "PM25",
+            "PM26",
+            "PM27",
+            "PM28",
+            "PM29"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc33": {
+        "missions": [
+            "PM24",
+            "PM25",
+            "PM26",
+            "PM27",
+            "PM28",
+            "PM29"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc34": {
+        "missions": [
+            "PM30"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc35": {
+        "missions": [
+            "PM31"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc36": {
+        "missions": [
+            "PM32"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc37": {
+        "missions": [
+            "PM33",
+            "PM34",
+            "PM35",
+            "PM36"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "PRc38": {
+        "missions": [
+            "PM33",
+            "PM34",
+            "PM35",
+            "PM36"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc39": {
+        "missions": [
+            "PM33",
+            "PM34",
+            "PM35",
+            "PM36"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRc40": {
+        "missions": [
+            "PM37"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "PRc41": {
+        "missions": [
+            "PM38",
+            "PM39",
+            "PM40"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "PRc42": {
+        "missions": [
+            "PM37",
+            "PM38",
+            "PM39",
+            "PM40"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc43": {
+        "missions": [
+            "PM37",
+            "PM38",
+            "PM39",
+            "PM40"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc44": {
+        "missions": [
+            "PM37",
+            "PM38",
+            "PM39",
+            "PM40"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc45": {
+        "missions": [
+            "PM37",
+            "PM38",
+            "PM39",
+            "PM40"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc46": {
+        "missions": [
+            "PM37",
+            "PM38",
+            "PM39",
+            "PM40"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc47": {
+        "missions": [
+            "PM41",
+            "PM42",
+            "PM43",
+            "PM44"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc48": {
+        "missions": [
+            "PM41",
+            "PM42",
+            "PM43",
+            "PM44"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc49": {
+        "missions": [
+            "PM41",
+            "PM42",
+            "PM43",
+            "PM44"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc50": {
+        "missions": [
+            "PM41",
+            "PM42",
+            "PM43",
+            "PM44"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc51": {
+        "missions": [
+            "PM41",
+            "PM42",
+            "PM43",
+            "PM44"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc52": {
+        "missions": [
+            "PM41",
+            "PM42",
+            "PM43",
+            "PM44"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc53": {
+        "missions": [
+            "PM41",
+            "PM42",
+            "PM43",
+            "PM44"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc54": {
+        "missions": [
+            "PM45",
+            "PM46",
+            "PM47",
+            "PM48"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc55": {
+        "missions": [
+            "PM45",
+            "PM46",
+            "PM47",
+            "PM48"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc56": {
+        "missions": [
+            "PM45",
+            "PM46",
+            "PM47",
+            "PM48"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc57": {
+        "missions": [
+            "PM45",
+            "PM46",
+            "PM47",
+            "PM48"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc58": {
+        "missions": [
+            "PM45",
+            "PM46",
+            "PM47",
+            "PM48"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc59": {
+        "missions": [
+            "PM45",
+            "PM46",
+            "PM47",
+            "PM48"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc60": {
+        "missions": [
+            "PM45",
+            "PM46",
+            "PM47",
+            "PM48"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc61": {
+        "missions": [
+            "PM49",
+            "PM50",
+            "PM51",
+            "PM52"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc62": {
+        "missions": [
+            "PM49",
+            "PM50",
+            "PM51",
+            "PM52"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc63": {
+        "missions": [
+            "PM49",
+            "PM50",
+            "PM51",
+            "PM52"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "PRc64": {
+        "missions": [
+            "PM49",
+            "PM50",
+            "PM51",
+            "PM52"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": []
+    },
+    "ERc1": {
+        "missions": [
+            "EM58",
+            "EM59",
+            "EM60"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc2": {
+        "missions": [
+            "EM1",
+            "EM2",
+            "EM3",
+            "EM4",
+            "EM6",
+            "EM32",
+            "EM34",
+            "EM35",
+            "EM36",
+            "EM37",
+            "EM62"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc3": {
+        "missions": [
+            "EM1",
+            "EM2"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "ERc4": {
+        "missions": [
+            "EM3"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "ERc5": {
+        "missions": [
+            "EM3",
+            "EM32",
+            "EM33",
+            "EM42",
+            "EM43",
+            "EM44"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "incentivisation",
+            "training",
+            "education"
+        ]
+    },
+    "ERc6": {
+        "missions": [
+            "EM3"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc7": {
+        "missions": [
+            "EM4",
+            "EM58"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ERc8": {
+        "missions": [
+            "EM5",
+            "EM38"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "persuasion"
+        ]
+    },
+    "ERc9": {
+        "missions": [
+            "EM6"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc10": {
+        "missions": [
+            "EM7",
+            "EM8",
+            "EM9"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc11": {
+        "missions": [
+            "EM7",
+            "EM8",
+            "EM9"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc12": {
+        "missions": [
+            "EM7",
+            "EM8",
+            "EM9"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc13": {
+        "missions": [
+            "EM10",
+            "EM11",
+            "EM12"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc14": {
+        "missions": [
+            "EM10",
+            "EM11",
+            "EM12"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc15": {
+        "missions": [
+            "EM10",
+            "EM11",
+            "EM12",
+            "EM7",
+            "EM8",
+            "EM9"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc16": {
+        "missions": [
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM26",
+            "EM29"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc17": {
+        "missions": [
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25",
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc18": {
+        "missions": [
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM26",
+            "EM29"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc19": {
+        "missions": [
+            "EM19",
+            "EM20",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc20": {
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25",
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc21": {
+        "missions": [
+            "EM20",
+            "EM62",
+            "EM63",
+            "EM64"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc22": {
+        "missions": [
+            "EM21",
+            "EM22",
+            "EM24",
+            "EM25",
+            "EM23"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc23": {
+        "missions": [
+            "EM26",
+            "EM27",
+            "EM28"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "ERc24": {
+        "missions": [
+            "EM26",
+            "EM27",
+            "EM28"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "ERc25": {
+        "missions": [
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc26": {
+        "missions": [
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc27": {
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25",
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "ERc28": {
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM19",
+            "EM20"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc29": {
+        "missions": [
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25",
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31",
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "ERc30": {
+        "missions": [
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM26",
+            "EM29"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc31": {
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25",
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc32": {
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25",
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc33": {
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25",
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc34": {
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM19",
+            "EM20",
+            "EM21",
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25",
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc35": {
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM19"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERc36": {
+        "missions": [
+            "EM32",
+            "EM34",
+            "EM38",
+            "EM39",
+            "EM40",
+            "EM42",
+            "EM43"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "ERc37": {
+        "missions": [
+            "EM32",
+            "EM33",
+            "EM53",
+            "EM54",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "incentivisation"
+        ]
+    },
+    "ERc38": {
+        "missions": [
+            "EM32",
+            "EM33",
+            "EM38",
+            "EM39",
+            "EM40",
+            "EM42",
+            "EM43",
+            "EM44",
+            "EM87"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "ERc39": {
+        "missions": [
+            "EM32",
+            "EM33",
+            "EM38",
+            "EM39",
+            "EM40",
+            "EM42",
+            "EM43",
+            "EM44"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion"
+        ]
+    },
+    "ERc40": {
+        "missions": [
+            "EM34",
+            "EM35",
+            "EM36",
+            "EM37"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc41": {
+        "missions": [
+            "EM35",
+            "EM37",
+            "EM36",
+            "EM34"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc42": {
+        "missions": [
+            "EM38",
+            "EM5",
+            "EM2",
+            "EM3",
+            "EM4"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "ERc43": {
+        "missions": [
+            "EM39",
+            "EM56"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc44": {
+        "missions": [
+            "EM40",
+            "EM56",
+            "EM48",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc45": {
+        "missions": [
+            "EM42"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc46": {
+        "missions": [
+            "EM43"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc47": {
+        "missions": [
+            "EM44"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc48": {
+        "missions": [
+            "EM32",
+            "EM33"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "ERc49": {
+        "missions": [
+            "EM45",
+            "EM46",
+            "EM55"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "ERc50": {
+        "missions": [
+            "EM45",
+            "EM46",
+            "EM55",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc51": {
+        "missions": [
+            "EM47"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc52": {
+        "missions": [
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "ERc53": {
+        "missions": [
+            "EM45",
+            "EM47",
+            "EM55",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "education",
+            "modelling"
+        ]
+    },
+    "ERc54": {
+        "missions": [
+            "EM45",
+            "EM47",
+            "EM55",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "persuasion",
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc55": {
+        "missions": [
+            "EM45",
+            "EM53",
+            "EM55",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "ERc56": {
+        "missions": [
+            "EM40",
+            "EM39",
+            "EM45",
+            "EM46",
+            "EM47",
+            "EM48",
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54",
+            "EM55",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc57": {
+        "missions": [
+            "EM40",
+            "EM39",
+            "EM45",
+            "EM46",
+            "EM47",
+            "EM48",
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54",
+            "EM55",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc58": {
+        "missions": [
+            "EM40",
+            "EM39",
+            "EM45",
+            "EM46",
+            "EM47",
+            "EM48",
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54",
+            "EM55",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc59": {
+        "missions": [
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "persuasion",
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc60": {
+        "missions": [
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "enablement"
+        ]
+    },
+    "ERc61": {
+        "missions": [
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "modelling"
+        ]
+    },
+    "ERc62": {
+        "missions": [
+            "EM46",
+            "EM47",
+            "EM48",
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54",
+            "EM55"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "modelling"
+        ]
+    },
+    "ERc63": {
+        "missions": [
+            "EM45",
+            "EM46",
+            "EM47",
+            "EM48",
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54",
+            "EM55",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "modelling"
+        ]
+    },
+    "ERc64": {
+        "missions": [
+            "EM45",
+            "EM46",
+            "EM47",
+            "EM48",
+            "EM49",
+            "EM50",
+            "EM51",
+            "EM52",
+            "EM53",
+            "EM54",
+            "EM55",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc65": {
+        "missions": [
+            "EM48",
+            "EM53",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc66": {
+        "missions": [
+            "EM48",
+            "EM53",
+            "EM56",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc67": {
+        "missions": [
+            "EM48",
+            "EM53",
+            "EM56",
+            "EM54",
+            "EM55",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "environmental restructuring"
+        ]
+    },
+    "ERc68": {
+        "missions": [
+            "EM44",
+            "EM39",
+            "EM40",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc69": {
+        "missions": [
+            "EM45",
+            "EM46",
+            "EM48",
+            "EM40"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc70": {
+        "missions": [
+            "EM67",
+            "EM78"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc71": {
+        "missions": [
+            "EM67",
+            "EM69",
+            "EM70",
+            "EM71"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "training",
+            "enablement"
+        ]
+    },
+    "ERc72": {
+        "missions": [
+            "EM67",
+            "EM71",
+            "EM81"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc73": {
+        "missions": [
+            "EM67",
+            "EM75"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc74": {
+        "missions": [
+            "EM68",
+            "EM71"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "environmental restructuring"
+        ]
+    },
+    "ERc75": {
+        "missions": [
+            "EM68",
+            "EM71"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc76": {
+        "missions": [
+            "EM68"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc77": {
+        "missions": [
+            "EM69"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical capability",
+        "intervention_types": [
+            "training",
+            "education"
+        ]
+    },
+    "ERc78": {
+        "missions": [
+            "EM69"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical capability",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ERc79": {
+        "missions": [
+            "EM69"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training",
+            "education"
+        ]
+    },
+    "ERc80": {
+        "missions": [
+            "EM70"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training",
+            "education"
+        ]
+    },
+    "ERc81": {
+        "missions": [
+            "EM71"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ERc82": {
+        "missions": [
+            "EM71",
+            "EM70"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "ERc83": {
+        "missions": [
+            "EM72"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "restrictions"
+        ]
+    },
+    "ERc84": {
+        "missions": [
+            "EM72"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "restrictions",
+            "environmental restructuring"
+        ]
+    },
+    "ERc85": {
+        "missions": [
+            "EM73"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ERc86": {
+        "missions": [
+            "EM73"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "restrictions",
+            "environmental restructuring",
+            "training"
+        ]
+    },
+    "ERc87": {
+        "missions": [
+            "EM74"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc88": {
+        "missions": [
+            "EM74"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc89": {
+        "missions": [
+            "EM74"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc90": {
+        "missions": [
+            "EM75"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ERc91": {
+        "missions": [
+            "EM75"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "enablement",
+            "training"
+        ]
+    },
+    "ERc92": {
+        "missions": [
+            "EM76"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ERc93": {
+        "missions": [
+            "EM76"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "training"
+        ]
+    },
+    "ERc94": {
+        "missions": [
+            "EM77"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "restrictions"
+        ]
+    },
+    "ERc95": {
+        "missions": [
+            "EM77"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc96": {
+        "missions": [
+            "EM78"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc97": {
+        "missions": [
+            "EM78"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc98": {
+        "missions": [
+            "EM79"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "training"
+        ]
+    },
+    "ERc99": {
+        "missions": [
+            "EM79"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical capability",
+        "intervention_types": [
+            "enablement"
+        ]
+    },
+    "ERc100": {
+        "missions": [
+            "EM80"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring",
+            "education"
+        ]
+    },
+    "ERc101": {
+        "missions": [
+            "EM80"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc102": {
+        "missions": [
+            "EM81"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "environmental restructuring"
+        ]
+    },
+    "ERc103": {
+        "missions": [
+            "EM81"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "restrictions"
+        ]
+    },
+    "ERc104": {
+        "missions": [
+            "EM82"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "restrictions",
+            "environmental restructuring"
+        ]
+    },
+    "ERc105": {
+        "missions": [
+            "EM73",
+            "EM74",
+            "EM75"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion"
+        ]
+    },
+    "ERc106": {
+        "missions": [
+            "EM67",
+            "EM78"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc107": {
+        "missions": [
+            "EM67"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc108": {
+        "missions": [
+            "EM67",
+            "EM78"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc109": {
+        "missions": [
+            "EM67",
+            "EM78"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "ERc110": {
+        "missions": [
+            "EM67",
+            "EM78"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc111": {
+        "missions": [
+            "EM78"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc112": {
+        "missions": [
+            "EM61"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERc113": {
+        "missions": [
+            "EM83"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    }
+}

@@ -1,0 +1,1206 @@
+{
+    "SRs1.1": {
+        "language": "ITA",
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs1.2": {
+        "language": "ITA",
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs1.3": {
+        "language": "ITA",
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs1.4": {
+        "language": "ITA",
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs1": {
+        "language": "SPA",
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs2.1": {
+        "language": "ITA",
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs2.2": {
+        "language": "ITA",
+        "missions": [
+            "SM1"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs2": {
+        "language": "SPA",
+        "missions": [
+            "SM2",
+            "SM15"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs3": {
+        "language": "SPA",
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "SRs3.1": {
+        "language": "ITA",
+        "missions": [
+            "SM2",
+            "SM15"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "SRs4.1": {
+        "language": "ITA",
+        "missions": [
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "training",
+            "enablement"
+        ]
+    },
+    "SRs4.2": {
+        "language": "ITA",
+        "missions": [
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "training",
+            "enablement"
+        ]
+    },
+    "SRs4.3": {
+        "language": "ITA",
+        "missions": [
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "training",
+            "enablement"
+        ]
+    },
+    "SRs4": {
+        "language": "SPA",
+        "missions": [
+            "SM16"
+        ],
+        "pillar": "smoking",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "training",
+            "enablement"
+        ]
+    },
+    "SRs5.1": {
+        "language": "ITA",
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "SRs5.2": {
+        "language": "ITA",
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "SRs5.3": {
+        "language": "ITA",
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "SRs5": {
+        "language": "SPA",
+        "missions": [
+            "SM8"
+        ],
+        "pillar": "smoking",
+        "com_b": null,
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARs1": {
+        "language": "SPA",
+        "missions": [
+            "AM4"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "incentivisation"
+        ]
+    },
+    "ARs2": {
+        "language": "SPA",
+        "missions": [
+            "AM4"
+        ],
+        "pillar": "alcohol",
+        "com_b": "social opportunity",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "ARs3": {
+        "language": "SPA",
+        "missions": [
+            "AM2"
+        ],
+        "pillar": "alcohol",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "ARs4": {
+        "language": "SPA",
+        "missions": [
+            "AM6"
+        ],
+        "pillar": "alcohol",
+        "com_b": "automatic motivation",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ARs5": {
+        "language": "SPA",
+        "missions": [
+            "AM2",
+            "AM9"
+        ],
+        "pillar": "alcohol",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "persuasion",
+            "environmental restructuring",
+            "enablement"
+        ]
+    },
+    "NRs1": {
+        "language": "SPA",
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM40",
+            "NM41",
+            "NM42",
+            "NM43",
+            "NM44",
+            "NM45",
+            "NM46",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58",
+            "NM59",
+            "NM60",
+            "NM61",
+            "NM62",
+            "NM63",
+            "NM64",
+            "NM65",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM71",
+            "NM72",
+            "NM73",
+            "NM74",
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78",
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "NRs2": {
+        "language": "SPA",
+        "missions": [
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34"
+        ],
+        "pillar": "nutrition",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "NRs3": {
+        "language": "SPA",
+        "missions": [
+            "NM65",
+            "NM71",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16"
+        ],
+        "pillar": "nutrition",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "NRs4": {
+        "language": "SPA",
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM40",
+            "NM41",
+            "NM42",
+            "NM43",
+            "NM44",
+            "NM45",
+            "NM46",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58",
+            "NM59",
+            "NM60",
+            "NM61",
+            "NM62",
+            "NM63",
+            "NM64",
+            "NM65",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM71",
+            "NM72",
+            "NM73",
+            "NM74",
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78",
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "NRs5": {
+        "language": "SPA",
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM40",
+            "NM41",
+            "NM42",
+            "NM43",
+            "NM44",
+            "NM45",
+            "NM46",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58",
+            "NM59",
+            "NM60",
+            "NM61",
+            "NM62",
+            "NM63",
+            "NM64",
+            "NM65",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM71",
+            "NM72",
+            "NM73",
+            "NM74",
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78",
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "NRs6": {
+        "language": "SPA",
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM9",
+            "NM10",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM17",
+            "NM18",
+            "NM19",
+            "NM20",
+            "NM21",
+            "NM22",
+            "NM23",
+            "NM24",
+            "NM25",
+            "NM26",
+            "NM27",
+            "NM28",
+            "NM29",
+            "NM30",
+            "NM31",
+            "NM32",
+            "NM33",
+            "NM34",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39",
+            "NM40",
+            "NM41",
+            "NM42",
+            "NM43",
+            "NM44",
+            "NM45",
+            "NM46",
+            "NM47",
+            "NM48",
+            "NM49",
+            "NM50",
+            "NM51",
+            "NM52",
+            "NM53",
+            "NM54",
+            "NM55",
+            "NM56",
+            "NM57",
+            "NM58",
+            "NM59",
+            "NM60",
+            "NM61",
+            "NM62",
+            "NM63",
+            "NM64",
+            "NM65",
+            "NM66",
+            "NM67",
+            "NM68",
+            "NM69",
+            "NM70",
+            "NM71",
+            "NM72",
+            "NM73",
+            "NM74",
+            "NM75",
+            "NM76",
+            "NM77",
+            "NM78",
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "NRs7": {
+        "language": "SPA",
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM10",
+            "NM9",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training"
+        ]
+    },
+    "NRs8": {
+        "language": "SPA",
+        "missions": [
+            "NM1",
+            "NM2",
+            "NM3",
+            "NM4",
+            "NM5",
+            "NM6",
+            "NM7",
+            "NM8",
+            "NM10",
+            "NM9",
+            "NM11",
+            "NM12",
+            "NM13",
+            "NM14",
+            "NM15",
+            "NM16",
+            "NM35",
+            "NM36",
+            "NM37",
+            "NM38",
+            "NM39"
+        ],
+        "pillar": "nutrition",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "NRs9": {
+        "language": "SPA",
+        "missions": [
+            "NM79",
+            "NM80",
+            "NM81",
+            "NM82",
+            "NM83",
+            "NM84",
+            "NM85",
+            "NM86",
+            "NM87",
+            "NM88",
+            "NM89",
+            "NM90",
+            "NM91",
+            "NM92"
+        ],
+        "pillar": "nutrition",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education"
+        ]
+    },
+    "PRs1": {
+        "language": "SPA",
+        "missions": [
+            "PM1",
+            "PM2",
+            "PM3"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "PRs2": {
+        "language": "SPA",
+        "missions": [
+            "PM7",
+            "PM8",
+            "PM9"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "PRs3": {
+        "language": "SPA",
+        "missions": [
+            "PM13",
+            "PM14",
+            "PM15"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "PRs4": {
+        "language": "SPA",
+        "missions": [
+            "PM18",
+            "PM19",
+            "PM20",
+            "PM21",
+            "PM22",
+            "PM23"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "PRs5": {
+        "language": "SPA",
+        "missions": [
+            "PM24",
+            "PM25",
+            "PM26",
+            "PM27",
+            "PM28",
+            "PM29"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "PRs6": {
+        "language": "SPA",
+        "missions": [
+            "PM45",
+            "PM46",
+            "PM47",
+            "PM48"
+        ],
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "PRs8": {
+        "language": "SPA",
+        "missions": null,
+        "pillar": "physical activity",
+        "com_b": null,
+        "intervention_types": null
+    },
+    "ERs1.1": {
+        "language": "ITA",
+        "missions": [
+            "EM62",
+            "EM63",
+            "EM64",
+            "EM65",
+            "EM66",
+            "EM1"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs1.2": {
+        "language": "ITA",
+        "missions": [
+            "EM62",
+            "EM63",
+            "EM64",
+            "EM65",
+            "EM66",
+            "EM1"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs1": {
+        "language": "SPA",
+        "missions": [
+            "EM62",
+            "EM63",
+            "EM64",
+            "EM65",
+            "EM66",
+            "EM1"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs2.1": {
+        "language": "ITA",
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM75"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs2.2": {
+        "language": "ITA",
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM75"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs2": {
+        "language": "SPA",
+        "missions": [
+            "EM13",
+            "EM14",
+            "EM15",
+            "EM16",
+            "EM17",
+            "EM18",
+            "EM75"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs3": {
+        "language": "SPA",
+        "missions": [
+            "EM26",
+            "EM27",
+            "EM28",
+            "EM29",
+            "EM30",
+            "EM31"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs4": {
+        "language": "SPA",
+        "missions": [
+            "EM22",
+            "EM23",
+            "EM24",
+            "EM25"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs5.1": {
+        "language": "ITA",
+        "missions": [
+            "EM3",
+            "EM5",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs5.2": {
+        "language": "ITA",
+        "missions": [
+            "EM3",
+            "EM5",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs5": {
+        "language": "SPA",
+        "missions": [
+            "EM3",
+            "EM5",
+            "EM57"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs6": {
+        "language": "SPA",
+        "missions": [
+            "EM7",
+            "EM8",
+            "EM9",
+            "EM10",
+            "EM11",
+            "EM12"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "physical opportunity",
+        "intervention_types": [
+            "education",
+            "training",
+            "modelling"
+        ]
+    },
+    "ERs7": {
+        "language": "SPA",
+        "missions": [
+            "EM4",
+            "EM6",
+            "EM85",
+            "EM86"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "enablement"
+        ]
+    },
+    "ERs8": {
+        "language": "SPA",
+        "missions": [
+            "EM32",
+            "EM33",
+            "EM38",
+            "EM39",
+            "EM40",
+            "EM42",
+            "EM43",
+            "EM14"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "enablement"
+        ]
+    },
+    "ERs9": {
+        "language": "SPA",
+        "missions": [
+            "EM47",
+            "EM55",
+            "EM54",
+            "EM57",
+            "EM45",
+            "EM84"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "enablement",
+            "modelling",
+            "environmental restructuring",
+            "education"
+        ]
+    },
+    "ERs10": {
+        "language": "SPA",
+        "missions": [
+            "EM1",
+            "EM2",
+            "EM3",
+            "EM4",
+            "EM5",
+            "EM58",
+            "EM59",
+            "EM60",
+            "EM61",
+            "EM85",
+            "EM86"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "reflective motivation",
+        "intervention_types": [
+            "education",
+            "incentivisation"
+        ]
+    },
+    "ERs11": {
+        "language": "SPA",
+        "missions": [
+            "EM67",
+            "EM68",
+            "EM69",
+            "EM70",
+            "EM71",
+            "EM72",
+            "EM73",
+            "EM74",
+            "EM75",
+            "EM76",
+            "EM77",
+            "EM78",
+            "EM79",
+            "EM80",
+            "EM81",
+            "EM82"
+        ],
+        "pillar": "emotional wellbeing",
+        "com_b": "psychological capability",
+        "intervention_types": [
+            "education",
+            "training",
+            "environmental restructuring",
+            "restrictions",
+            "enablement"
+        ]
+    }
+}
