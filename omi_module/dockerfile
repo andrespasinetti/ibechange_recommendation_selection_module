@@ -1,0 +1,14 @@
+# Use a lightweight Python image
+FROM python:3.13.1
+
+# Set the working directory
+WORKDIR /app
+ENV PYTHONPATH=/app
+
+# Copy everything inside the recommender_system directory
+COPY omi_module /app/omi_module
+
+RUN pip install -r /app/omi_module/requirements.txt
+
+# Run the main script
+CMD ["python", "-u", "-m", "omi_module.omi_api"]
