@@ -1,0 +1,14 @@
+FROM python:3.13.1
+
+WORKDIR /app
+ENV PYTHONPATH=/app
+
+# Copy everything inside the recommender_system directory
+COPY time_service /app/time_service
+
+
+# Install dependencies
+RUN pip install -r /app/time_service/requirements.txt
+
+
+CMD ["python", "-u", "-m", "time_service.time_service"]
