@@ -1,0 +1,14 @@
+FROM python:3.13.1
+
+# put /app on PYTHONPATH so that `import virtual_user` works
+WORKDIR /app
+ENV PYTHONPATH=/app
+
+# copy the subfolder into /app/virtual_user
+COPY virtual_user /app/virtual_user
+
+# install deps
+RUN pip install -r /app/virtual_user/requirements.txt
+
+# run as module under the package `virtual_user`
+CMD ["python", "-u", "-m", "virtual_user.vu_api"]

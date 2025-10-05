@@ -1,0 +1,894 @@
+[
+  {
+    "mission_id": "AM1",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "AM2",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM3",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM4",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM5",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "AM6",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "AM7",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM8",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM9",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM10",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM11",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM12",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM13",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "AM14",
+    "weekly_frequency": 4
+  },
+  {
+    "mission_id": "NM1",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM2",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM3",
+    "weekly_frequency": 4
+  },
+  {
+    "mission_id": "NM4",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM5",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM6",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM7",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM8",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM9",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM10",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM11",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM12",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM13",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM14",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM15",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM16",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM17",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM18",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM19",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM20",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM21",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM22",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM23",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM24",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM25",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM26",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM27",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM28",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM29",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM30",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM31",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM32",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM33",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM34",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM35",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM36",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM37",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM38",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM39",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM40",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM41",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM42",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM43",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM44",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM45",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM46",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM47",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM48",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM49",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM50",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM51",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM52",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM53",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM54",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM55",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM56",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM57",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM58",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM59",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM60",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM61",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM62",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM63",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM64",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM65",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM66",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM67",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM68",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM69",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM70",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM71",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM72",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM73",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM74",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM75",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM76",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM77",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM78",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM79",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM80",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM81",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM82",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM83",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "NM84",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM85",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM86",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM87",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM88",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "NM89",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "NM90",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "NM91",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "NM92",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "SM1",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "SM2",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "SM3",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "SM4",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "SM5",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "SM6",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "SM7",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "SM8",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "SM9",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "SM10",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "SM11",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "SM12",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "PM1",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "PM2",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "PM3",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "PM4",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "PM5",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "PM6",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "PM7",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "PM8",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "PM9",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "PM10",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "PM11",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "PM12",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "PM13",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "PM14",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "PM15",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "PM16",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "PM17",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM1",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM2",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM3",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM4",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM5",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM6",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM7",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM8",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM9",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM10",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM11",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM12",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM13",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM14",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM15",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM16",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM17",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM18",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM19",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM20",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM21",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM22",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM23",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM24",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM25",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM26",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "EM27",
+    "weekly_frequency": 4
+  },
+  {
+    "mission_id": "EM28",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM29",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "EM30",
+    "weekly_frequency": 4
+  },
+  {
+    "mission_id": "EM31",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM32",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM33",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM34",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM35",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM36",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM37",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM38",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM39",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM40",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM42",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM43",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM44",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM45",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "EM46",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM47",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM48",
+    "weekly_frequency": 2
+  },
+  {
+    "mission_id": "EM49",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM50",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM51",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM52",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM53",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM54",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM55",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM56",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM57",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM58",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM59",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM60",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM61",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM62",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM63",
+    "weekly_frequency": 5
+  },
+  {
+    "mission_id": "EM64",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM65",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM66",
+    "weekly_frequency": 3
+  },
+  {
+    "mission_id": "EM67",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM68",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM69",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM70",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM71",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM72",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM73",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM74",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM75",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM76",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM77",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM78",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM79",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM80",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM81",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM82",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM83",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM84",
+    "weekly_frequency": 1
+  },
+  {
+    "mission_id": "EM85",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM86",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM87",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM88",
+    "weekly_frequency": 7
+  },
+  {
+    "mission_id": "EM89",
+    "weekly_frequency": 7
+  }
+]
